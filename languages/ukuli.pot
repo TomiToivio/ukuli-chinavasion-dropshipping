@@ -1,0 +1,243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-08 16:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: classes/class-ukuli-chinavasion.php:49
+#: classes/class-ukuli-chinavasion.php:325
+#: classes/class-ukuli-chinavasion.php:381
+msgid "API Error:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:88
+#: classes/class-ukuli-chinavasion.php:126
+#: classes/class-ukuli-chinavasion.php:151
+msgid "API Error message: "
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:101
+msgid "Select product"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:160
+msgid "Importing image"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:160
+msgid "from Chinavasion"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:303
+msgid "Product already exists:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:320
+#: classes/class-ukuli-chinavasion.php:414
+#: classes/class-ukuli-chinavasion.php:419
+msgid "Product"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:320
+msgid "imported from Chinavasion"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:322
+msgid "Check imported product"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:322
+msgid "and publish it!"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:367 lib/ukuli-order.php:64
+msgid "Order"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:367
+msgid "sent to Chinavasion"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:369
+msgid "Chinavasion order sent"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:371
+msgid "Order ID:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:372
+msgid "Status:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:373
+msgid "Shipping:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:374
+msgid "Shipping cost:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:375
+msgid "Insurance:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:376
+msgid "Subtotal:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:377
+msgid "Total:"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:414
+msgid "is in stock"
+msgstr ""
+
+#: classes/class-ukuli-chinavasion.php:419
+msgid "is out of stock"
+msgstr ""
+
+#. Name of the plugin
+#: admin/ukuli-admin.php:98
+msgid "Ukuli Chinavasion"
+msgstr ""
+
+#: admin/ukuli-admin.php:100
+msgid "Import"
+msgstr ""
+
+#: admin/ukuli-admin.php:101
+msgid "Status"
+msgstr ""
+
+#: admin/ukuli-admin.php:102
+msgid "Settings"
+msgstr ""
+
+#: admin/ukuli-admin.php:107
+msgid "Import Chinavasion product"
+msgstr ""
+
+#: admin/ukuli-admin.php:215
+msgid "Chinavasion balance"
+msgstr ""
+
+#: admin/ukuli-admin.php:219
+msgid "Chinavasion Logs"
+msgstr ""
+
+#: admin/ukuli-admin.php:225
+msgid "Chinavasion API key"
+msgstr ""
+
+#: admin/ukuli-admin.php:227
+msgid "API key"
+msgstr ""
+
+#: admin/ukuli-admin.php:229
+msgid "Post"
+msgstr ""
+
+#: lib/ukuli-product.php:9 lib/ukuli-product.php:23
+msgid "Chinavasion Dropshipping"
+msgstr ""
+
+#: lib/ukuli-product.php:25
+msgid "Is this a Chinavasion dropshipping product?"
+msgstr ""
+
+#: lib/ukuli-product.php:28
+msgid "No"
+msgstr ""
+
+#: lib/ukuli-product.php:29
+msgid "Yes"
+msgstr ""
+
+#: lib/ukuli-product.php:34 lib/ukuli-product.php:36
+msgid "Chinavasion product url"
+msgstr ""
+
+#: lib/ukuli-product.php:41 lib/ukuli-product.php:43
+msgid "Chinavasion model code"
+msgstr ""
+
+#: lib/ukuli-product.php:48 lib/ukuli-product.php:50
+msgid "Chinavasion ID"
+msgstr ""
+
+#: lib/ukuli-product.php:55 lib/ukuli-product.php:57
+msgid "Chinavasion EAN"
+msgstr ""
+
+#: lib/ukuli-notices.php:11
+msgid "Chinavasion does not support your currency."
+msgstr ""
+
+#: lib/ukuli-notices.php:16
+msgid "Chinavasion API key is not set."
+msgstr ""
+
+#: lib/ukuli-notices.php:21
+msgid "Chinavasion plugin requires WooCommerce."
+msgstr ""
+
+#: lib/ukuli-order.php:30
+msgid "Chinavasion order"
+msgstr ""
+
+#: lib/ukuli-order.php:32 lib/ukuli-order.php:52
+msgid "Shipping"
+msgstr ""
+
+#: lib/ukuli-order.php:32 lib/ukuli-order.php:41
+msgid "Price"
+msgstr ""
+
+#: lib/ukuli-order.php:32
+msgid "Delivery"
+msgstr ""
+
+#: lib/ukuli-order.php:41
+msgid "Product ID"
+msgstr ""
+
+#: lib/ukuli-order.php:41
+msgid "Quantity"
+msgstr ""
+
+#: lib/ukuli-order.php:41
+msgid "Total"
+msgstr ""
+
+#: lib/ukuli-order.php:57
+msgid "Payment"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Chinavasion"
+msgstr ""
+
+#. Description of the plugin
+msgid "Chinavasion Dropshipping for WooCommerce"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://tomitoivio.info"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tomi Toivio"
+msgstr ""

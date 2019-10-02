@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ukuli Chinavasion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-08 16:40+0000\n"
+"PO-Revision-Date: 2019-05-08 16:41+0000\n"
+"Last-Translator: Tomi Toivio <tomi@sange.fi>\n"
+"Language-Team: Suomi\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: classes/class-ukuli-chinavasion.php:49
+#: classes/class-ukuli-chinavasion.php:325
+#: classes/class-ukuli-chinavasion.php:381
+msgid "API Error:"
+msgstr "API-virhe:"
+
+#: classes/class-ukuli-chinavasion.php:88
+#: classes/class-ukuli-chinavasion.php:126
+#: classes/class-ukuli-chinavasion.php:151
+msgid "API Error message: "
+msgstr "API-virheviesti:"
+
+#: classes/class-ukuli-chinavasion.php:101
+msgid "Select product"
+msgstr "Valitse tuote"
+
+#: classes/class-ukuli-chinavasion.php:160
+msgid "Importing image"
+msgstr "Tuodaan kuvaa"
+
+#: classes/class-ukuli-chinavasion.php:160
+msgid "from Chinavasion"
+msgstr "Chinavasionista"
+
+#: classes/class-ukuli-chinavasion.php:303
+msgid "Product already exists:"
+msgstr "Tuote on jo olemassa:"
+
+#: classes/class-ukuli-chinavasion.php:320
+#: classes/class-ukuli-chinavasion.php:414
+#: classes/class-ukuli-chinavasion.php:419
+msgid "Product"
+msgstr "Tuote"
+
+#: classes/class-ukuli-chinavasion.php:320
+msgid "imported from Chinavasion"
+msgstr "Tuotu Chinavasionista"
+
+#: classes/class-ukuli-chinavasion.php:322
+msgid "Check imported product"
+msgstr "Tarkasta tuotu tuote"
+
+#: classes/class-ukuli-chinavasion.php:322
+msgid "and publish it!"
+msgstr "ja julkaise se!"
+
+#: classes/class-ukuli-chinavasion.php:367 lib/ukuli-order.php:64
+msgid "Order"
+msgstr "Tilaa"
+
+#: classes/class-ukuli-chinavasion.php:367
+msgid "sent to Chinavasion"
+msgstr "lähetetty Chinavasioniin"
+
+#: classes/class-ukuli-chinavasion.php:369
+msgid "Chinavasion order sent"
+msgstr "Chinavasion-tilaus lähetetty"
+
+#: classes/class-ukuli-chinavasion.php:371
+msgid "Order ID:"
+msgstr "Tilaus ID:"
+
+#: classes/class-ukuli-chinavasion.php:372
+msgid "Status:"
+msgstr "Tila:"
+
+#: classes/class-ukuli-chinavasion.php:373
+msgid "Shipping:"
+msgstr "Toimitus:"
+
+#: classes/class-ukuli-chinavasion.php:374
+msgid "Shipping cost:"
+msgstr "Toimituskustannus:"
+
+#: classes/class-ukuli-chinavasion.php:375
+msgid "Insurance:"
+msgstr "Vakuutus:"
+
+#: classes/class-ukuli-chinavasion.php:376
+msgid "Subtotal:"
+msgstr "Välisumma:"
+
+#: classes/class-ukuli-chinavasion.php:377
+msgid "Total:"
+msgstr "Summa"
+
+#: classes/class-ukuli-chinavasion.php:414
+msgid "is in stock"
+msgstr "on varastossa"
+
+#: classes/class-ukuli-chinavasion.php:419
+msgid "is out of stock"
+msgstr "loppunut varastosta"
+
+#. Name of the plugin
+#: admin/ukuli-admin.php:98
+msgid "Ukuli Chinavasion"
+msgstr "Ukuli Chinavasion"
+
+#: admin/ukuli-admin.php:100
+msgid "Import"
+msgstr "Tuo"
+
+#: admin/ukuli-admin.php:101
+msgid "Status"
+msgstr "Tila"
+
+#: admin/ukuli-admin.php:102
+msgid "Settings"
+msgstr "Asetukset"
+
+#: admin/ukuli-admin.php:107
+msgid "Import Chinavasion product"
+msgstr "Tuo Chinavasion-tuote"
+
+#: admin/ukuli-admin.php:215
+msgid "Chinavasion balance"
+msgstr "Chinavasionin saldo"
+
+#: admin/ukuli-admin.php:219
+msgid "Chinavasion Logs"
+msgstr "Chinavasion-lokit"
+
+#: admin/ukuli-admin.php:225
+msgid "Chinavasion API key"
+msgstr "Chinavasionin API-avain"
+
+#: admin/ukuli-admin.php:227
+msgid "API key"
+msgstr "API-avain"
+
+#: admin/ukuli-admin.php:229
+msgid "Post"
+msgstr "Lähetä"
+
+#: lib/ukuli-product.php:9 lib/ukuli-product.php:23
+msgid "Chinavasion Dropshipping"
+msgstr "Chinavasion Dropshipping"
+
+#: lib/ukuli-product.php:25
+msgid "Is this a Chinavasion dropshipping product?"
+msgstr "Onko tämä Chinavasionin dropshipping-tuote?"
+
+#: lib/ukuli-product.php:28
+msgid "No"
+msgstr "Ei"
+
+#: lib/ukuli-product.php:29
+msgid "Yes"
+msgstr "Kyllä"
+
+#: lib/ukuli-product.php:34 lib/ukuli-product.php:36
+msgid "Chinavasion product url"
+msgstr "Chinavasion-tuotteen url"
+
+#: lib/ukuli-product.php:41 lib/ukuli-product.php:43
+msgid "Chinavasion model code"
+msgstr "Chinavasionin mallikoodi"
+
+#: lib/ukuli-product.php:48 lib/ukuli-product.php:50
+msgid "Chinavasion ID"
+msgstr "Chinavasion ID"
+
+#: lib/ukuli-product.php:55 lib/ukuli-product.php:57
+msgid "Chinavasion EAN"
+msgstr "Chinavasion EAN"
+
+#: lib/ukuli-notices.php:11
+msgid "Chinavasion does not support your currency."
+msgstr "Chinavasion ei tue valuuttaasi."
+
+#: lib/ukuli-notices.php:16
+msgid "Chinavasion API key is not set."
+msgstr "Chinavasionin API-avainta ei ole asetettu."
+
+#: lib/ukuli-notices.php:21
+msgid "Chinavasion plugin requires WooCommerce."
+msgstr "Chinavasion-lisäosa vaatii WooCommercen."
+
+#: lib/ukuli-order.php:30
+msgid "Chinavasion order"
+msgstr "Chinavasion-tilaus"
+
+#: lib/ukuli-order.php:32 lib/ukuli-order.php:52
+msgid "Shipping"
+msgstr "Toimitus"
+
+#: lib/ukuli-order.php:32 lib/ukuli-order.php:41
+msgid "Price"
+msgstr "Hinta"
+
+#: lib/ukuli-order.php:32
+msgid "Delivery"
+msgstr "Toimitus"
+
+#: lib/ukuli-order.php:41
+msgid "Product ID"
+msgstr "Tuotetunnus"
+
+#: lib/ukuli-order.php:41
+msgid "Quantity"
+msgstr "Määrä"
+
+#: lib/ukuli-order.php:41
+msgid "Total"
+msgstr "Summa"
+
+#: lib/ukuli-order.php:57
+msgid "Payment"
+msgstr "Maksu"
+
+#. Name of the plugin
+msgid "WooCommerce Chinavasion"
+msgstr "WooCommerce Chinavasion"
+
+#. Description of the plugin
+msgid "Chinavasion Dropshipping for WooCommerce"
+msgstr "Chinavasion dropshipping WooCommercelle"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://tomitoivio.info"
+msgstr "https://tomitoivio.info"
+
+#. Author of the plugin
+msgid "Tomi Toivio"
+msgstr "Tomi Toivio"

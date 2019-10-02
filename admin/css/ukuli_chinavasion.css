@@ -1,0 +1,16 @@
+.chinavasion-table  {
+    margin-top: 5px;
+    border: 1px solid #e5e5e5;
+} 
+
+.chinavasion-table tr:nth-child(even) {
+    background-color: #e5e5e5;
+} 
+ 
+.chinavasion_order {
+    margin-top: 5px; 
+}
+ 
+.chinavasion_order_button {
+    margin-top: 5px;
+}
