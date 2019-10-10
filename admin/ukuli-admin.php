@@ -16,7 +16,7 @@ add_action('admin_enqueue_scripts', 'ukuli_chinavasion_enqueue_scripts');
 add_action( 'admin_menu', 'ukuli_chinavasion_add_admin_menu' );
 
 function ukuli_chinavasion_add_admin_menu(  ) {
-	 add_menu_page( 'Ukuli Chinavasion', 'Ukuli Chinavasion', 'manage_options', 'ukuli_chinavasion', 'ukuli_chinavasion_options_page', 'dashicons-cart' );
+	 add_menu_page( 'Chinavasion Dropshipping', 'Chinavasion Dropshipping', 'manage_options', 'ukuli_chinavasion', 'ukuli_chinavasion_options_page', 'dashicons-cart' );
 }
 
 function ukuli_chinavasion_options_page(  ) {
@@ -95,7 +95,7 @@ ul.tabs li.current{
 </style>
 
 <div class="container">
-<h1 class="ukuli-chinavasion-title"><?php echo __( 'Ukuli Chinavasion', 'ukuli' ); ?></h1>
+<h1 class="ukuli-chinavasion-title"><?php echo __( 'Chinavasion Dropshipping', 'ukuli' ); ?></h1>
 <ul class="tabs">
       <li class="tab-link<?php if(!empty(get_option("ukuli_chinavasion_api_key"))) { echo " current"; } ?>" data-tab="tab-1"><?php echo __( 'Import', 'ukuli' ); ?></li>
       <li class="tab-link" data-tab="tab-2"><?php echo __( 'Status', 'ukuli' ); ?></li>
