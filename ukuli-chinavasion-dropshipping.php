@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Chinavasion Dropshipping
+Plugin Name: Ukuli Chinavasion Dropshipping
 Plugin URI: https://ukuli.fi
 Description: Chinavasion Dropshipping for WooCommerce
 Version: 1.0.1
